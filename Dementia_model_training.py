@@ -9,7 +9,7 @@ import seaborn as sns
 from sklearn.ensemble import RandomForestClassifier
 
 # Load your dataset
-df = pd.read_csv(r"C:\Users\pavan\OneDrive\Desktop\dementia pred dataset\health_dementia_data.csv")
+df = pd.read_csv(r"https://www.kaggle.com/datasets/gilbertmilton20/dementia-patient-characteristics-dataset")
 
 # Display basic information about the dataset
 print(df.info())
