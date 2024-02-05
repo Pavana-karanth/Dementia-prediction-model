@@ -37,3 +37,9 @@ The Streamlit app simplifies user interaction with the trained models. Users can
 📌**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+📌**An Outlook Of The Project**
+![Screenshot 2024-02-05 192135](https://github.com/Pavana-karanth/Dementia-prediction-model/assets/121237759/e67c7a20-fbeb-4d99-8719-6c908187a0e5)
+
+![Screenshot 2024-02-05 192217](https://github.com/Pavana-karanth/Dementia-prediction-model/assets/121237759/c61e3b9c-92f6-404e-9fa1-308fffe6058c)
+
