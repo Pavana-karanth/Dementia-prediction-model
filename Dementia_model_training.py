@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[45]:
-
+pip install matplotlib
 
 # Import necessary libraries
 import pandas as pd
